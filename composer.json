@@ -1,0 +1,17 @@
+{
+    "name": "amanangira/script-execution-time",
+    "description": "A library to calculate time taken for a script to execute.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Aman Angira",
+            "email": "aman.angira@outlook.com"
+        }
+    ],
+	"auotload":{
+		"psr-4":{
+			"AmanAngira\\ExecutionTime\\":"src"
+		}
+	},
+    "require": {}
+}
