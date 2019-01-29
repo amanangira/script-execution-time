@@ -1,4 +1,8 @@
-	$x = new ExecutionTime;
-    $x->startTime();
+Example
+
+    $runTime = new ExecutionTime;
+    $runTime->startTime();
     sleep( 2 );
-    $x->endTime();
+    $runTime->endTime();
+    echo "Time taken to run in seconds: " . $runTime->getTime();
+   
