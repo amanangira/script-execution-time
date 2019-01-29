@@ -1,3 +1,5 @@
+A library to calculate time taken for a script to execute.
+
 Example
 
     $runTime = new ExecutionTime;
