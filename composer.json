@@ -8,7 +8,7 @@
             "email": "aman.angira@outlook.com"
         }
     ],
-	"auotload":{
+	"autoload":{
 		"psr-4":{
 			"AmanAngira\\ScriptExecutionTime\\":"src"
 		}
