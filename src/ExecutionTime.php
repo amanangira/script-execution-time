@@ -1,5 +1,5 @@
 <?php
-	namespace AmanAngira\ExecutionTime;
+	namespace AmanAngira\ScriptExecutionTime;
 
 	class ExecutionTime{
 		private $startTime, $endTime;
