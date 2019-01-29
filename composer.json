@@ -10,7 +10,7 @@
     ],
 	"auotload":{
 		"psr-4":{
-			"AmanAngira\\ExecutionTime\\":"src"
+			"AmanAngira\\ScriptExecutionTime\\":"src"
 		}
 	},
     "require": {}
